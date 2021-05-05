@@ -126,7 +126,11 @@ export const links = [
 ];
 
 export const socials = [
-
+  {
+    label: "Telegram",
+    icon: "TelegramIcon",
+    href: "https://t.me/spirit_swap",
+  },
   {
     label: "Twitter",
     icon: "TwitterIcon",
