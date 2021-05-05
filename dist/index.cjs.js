@@ -2361,11 +2361,6 @@ var links = [
 ];
 var socials = [
     {
-        label: "Telegram",
-        icon: "TelegramIcon",
-        href: "https://t.me/spirit_swap",
-    },
-    {
         label: "Twitter",
         icon: "TwitterIcon",
         href: "https://twitter.com/Spirit_Swap",
